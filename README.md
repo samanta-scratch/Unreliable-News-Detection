@@ -40,6 +40,7 @@ Bidirectional LSTM(Long Short Term Memory)
 
 
 ## Visualization
-![image](https://user-images.githubusercontent.com/113231185/222907541-d70df1c8-b27a-4614-88af-f7bced6332c0.png)
 ![image](https://user-images.githubusercontent.com/113231185/222907611-f8c8c32b-2bf8-472b-9ffa-9bc2f8627a01.png)
+![image](https://user-images.githubusercontent.com/113231185/222907684-819db341-5d30-4408-8f1d-ebeb3a1f9c4c.png)
+
 
