@@ -46,3 +46,9 @@ Bidirectional LSTM(Long Short Term Memory)
 ![image](https://user-images.githubusercontent.com/113231185/222907684-819db341-5d30-4408-8f1d-ebeb3a1f9c4c.png)
 
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
