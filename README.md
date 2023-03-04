@@ -7,4 +7,8 @@
 * [Used Algorithm](#algo)
 * [Visualization](#visual)
 * [Contributing](#contubution)
+## Introduction
+To detect whether news is real or fake
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
