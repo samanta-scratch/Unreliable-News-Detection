@@ -35,8 +35,7 @@ To detect whether news is real or fake
 
 ## Used Algorithm
 
-- Apriori
-- Association_rules
+Bidirectional LSTM(Long Short Term Memory) 
 
 
 
