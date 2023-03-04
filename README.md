@@ -11,4 +11,34 @@
 To detect whether news is real or fake
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Packages
+ * nltk
+  ```sh
+  !pip install nltk
+  ```
+ * spacy
+  ```sh
+  !pip install spacy
+  ```
+ * WordCloud
+  ```sh
+  !pip install WordCloud
+  ```
+ * gensim
+  ```sh
+  !pip install gensim
+  ```
+ 
+## Technologies
+- Python - 3.10
+- Jupyter Notebook
+
+## Used Algorithm
+
+- Apriori
+- Association_rules
+
+
+
+## Visualization
 
